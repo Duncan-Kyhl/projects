@@ -36,14 +36,14 @@ Storage of potential projects and ideas until I code them.
 	- Suggest playing that music
 
 ### Javascript Pomodoro Timer
-  - kinda basic
+  	- kinda basic
 
 ### Javascript Animated Navigation Menu
-  - tbd
+ 	 - tbd
 
 ### This Day in History
 	- Web scraper
-  - What happened on this day in history
+  	- What happened on this day in history
 
 
 ### Login Authentification
@@ -57,16 +57,16 @@ Storage of potential projects and ideas until I code them.
 
 ### Rock Paper Scissors
 	- p.1 simple
-  - p.2 with images
+  	- p.2 with images
 
 ### Slimeball Basketball
 	- need to know how to create visuals
 
 ### What does a colorblind person see?
 	- Take a picture
-  - pick a type of colorblindness
-  - adjusts saturation for RGB 
-  - shows you what they see 
+	  - pick a type of colorblindness
+ 	 - adjusts saturation for RGB 
+ 	 - shows you what they see 
 
 ### St. Piux X Catholic Parish
 	- Website update because it's disgusting
@@ -74,11 +74,11 @@ Storage of potential projects and ideas until I code them.
 ### Bike Union & Coffee
 	- PostgreSQL DB
 	- Web App
-  - for Workforce Development Mentoring Program
+  	- for Workforce Development Mentoring Program
 
 ### Sign up Notifications in Google Sheets
 	- Send me a text with anything in these cells so I know who has signed up
-  - Tillio 
+	  - Tillio 
 
 ### Turn my Syllabus into Outlook Calendar
 	- Create my due dates for me
