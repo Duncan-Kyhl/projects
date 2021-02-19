@@ -21,45 +21,40 @@ Storage of potential projects and ideas until I code them.
 	- Track effectiveness
 
 ### Gas Pump Price Automater
-	- Given x,y,z features
+	- Given x,y,z features (location, day, temperature, price of nearby gas, etc.)
 	- Pick a price
 	- Broadcast to location automatically
+	- Store doesn't have to choose price
+	- Should be ML data on best price
 
 ### Play Myself in Chess - AI
 	- Rules
+	- Who is better? Me or Me?
 
 ### Chrome T-Rex Dino Bot
-	- ML 
+	- ML beat the game
 
 ### Music Tastes
 	- Find matches between frequently listened artists on spotify accounts
 	- Suggest playing that music
 
-### Javascript Pomodoro Timer
-  	- kinda basic
-
-### Javascript Animated Navigation Menu
- 	 - tbd
+### Computer Vision Webpage
+  	- point to menu to open 
+  	- move finger to select menu items
+  	- open hand or flick wrist to click
 
 ### This Day in History
 	- Web scraper
   	- What happened on this day in history
 
-### Login Authentification
-	- Dual Factor with Twillio
-
-### Simple Stopwatch
-	- Stop
-	- Start
-	- Lap
-	- Reset
-
-### Rock Paper Scissors
-	- p.1 simple
-  	- p.2 with images
+### Food Delivery Car
+	- Get shortest route from A to B
+	- Call/text customer using Twillio API upon arriving, ask to get groceries
+	- Voice AI to parse speech for come back later or I'm on my way
+	- output only the items they purchased
 
 ### Slimeball Basketball
-	- need to know how to create visuals
+	- the best thing from elementary school indoor recess
 
 ### What does a colorblind person see?
 	- Take a picture
@@ -71,13 +66,15 @@ Storage of potential projects and ideas until I code them.
 	- Website update because it's disgusting
 
 ### Bike Union & Coffee
-	- PostgreSQL DB
+	- PostgreSQL or MySQL DB
 	- Web App
   	- for Workforce Development Mentoring Program
+  	- Information tracking for members, classes, and grants
+  	- Performance evaluation metrics
 
 ### Sign up Notifications in Google Sheets
 	- Send me a text with anything in these cells so I know who has signed up
-	  - Tillio 
+	- Tillio 
 
 ### Turn my Syllabus into Outlook Calendar
 	- Create my due dates for me
