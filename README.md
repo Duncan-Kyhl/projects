@@ -45,7 +45,6 @@ Storage of potential projects and ideas until I code them.
 	- Web scraper
   	- What happened on this day in history
 
-
 ### Login Authentification
 	- Dual Factor with Twillio
 
@@ -90,3 +89,9 @@ Storage of potential projects and ideas until I code them.
 	- Write a program to store the History > Recently Closed > 10 tabs
 	- Then, when I have time to read those again, open them up from a single terminal program.
 	- https://github.com/cnwangjie/better-onetab
+
+### Personal Portfolio
+	- Analytics
+	- Graphs, charts, (also Python, SQL, Tableau, JS/HTML/CSS, Database)
+	- As scrolling through webpage, 1 inch 3D character of me climbs and jumps down the webpage, interacting with chards, words, & graphics & pointing to CTAs
+	- If scroll too fast, he eventually catches up and bends over at the waist to catch his breath
