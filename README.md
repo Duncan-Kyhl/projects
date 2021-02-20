@@ -92,3 +92,6 @@ Storage of potential projects and ideas until I code them.
 	- Graphs, charts, (also Python, SQL, Tableau, JS/HTML/CSS, Database)
 	- As scrolling through webpage, 1 inch 3D character of me climbs and jumps down the webpage, interacting with chards, words, & graphics & pointing to CTAs
 	- If scroll too fast, he eventually catches up and bends over at the waist to catch his breath
+
+### Automate Source Control
+	- run command to perform all steps of initializing a github project (make repository, add readme, make first commit) from bash
