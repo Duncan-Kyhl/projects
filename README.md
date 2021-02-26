@@ -95,3 +95,21 @@ Storage of potential projects and ideas until I code them.
 
 ### Automate Source Control
 	- run command to perform all steps of initializing a github project (make repository, add readme, make first commit) from bash
+
+### Weekly Groceries
+	- add the "basic" groceries to the Aldi cart every Friday 
+	- Notify me and ask if I want to order or make changes
+	
+### What Should I Have For Dinner
+	- input meals I like and their ingredients
+	- Show me meals I might like (similar to those I like)
+	- Show me meals I might not like (dissimilar to those I like)
+	- Allow for likes which influence suggestions
+
+### Get It Done
+	- smartphone reminders that fade the whole screen on the lock screen, as opposed to a banner
+	- or, a to do list on the lock screen
+
+### Eyeglasses That Can Zoom In
+	- Probably not road-legal.
+
