@@ -113,3 +113,8 @@ Storage of potential projects and ideas until I code them.
 ### Eyeglasses That Can Zoom In
 	- Probably not road-legal.
 
+### Do Your Dishes
+	- facial recognition when I or housemates walk up to sink
+	- if dishes are not cleaned and just left in the sink, speaker plays voice to wash dishes
+
+
