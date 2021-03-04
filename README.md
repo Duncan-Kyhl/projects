@@ -117,4 +117,8 @@ Storage of potential projects and ideas until I code them.
 	- facial recognition when I or housemates walk up to sink
 	- if dishes are not cleaned and just left in the sink, speaker plays voice to wash dishes
 
+### Financial Statement Querying
+	- input financial statement
+	- set queries
+	- show relevant results
 
