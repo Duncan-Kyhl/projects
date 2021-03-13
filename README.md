@@ -122,3 +122,7 @@ Storage of potential projects and ideas until I code them.
 	- set queries
 	- show relevant results
 
+### Grocery Saver
+	- track expiration dates
+	- remind when close to expiration
+	- use barcode to ID item, or import from online shopping cart
