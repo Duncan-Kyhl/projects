@@ -11,8 +11,12 @@ Storage of potential projects and ideas until I code them.
 
 ### Penthouse Dashboard
 	- Bathroom in use
-	- Weather
+	- Today's hourly weather & hi/low
 	- Sports highlights
+	- Chess game pvp
+	- Saint of the day & Bio
+	- This day in history
+	- ring doorbell response
 
 ### Safe Driver Key
 	- Build on Uber API?
@@ -126,3 +130,8 @@ Storage of potential projects and ideas until I code them.
 	- track expiration dates
 	- remind when close to expiration
 	- use barcode to ID item, or import from online shopping cart
+
+### Indoor Drone Retrieval
+	- go find my phone/wallet/beer
+	- bring me the item
+	- CV to recognize object and maneuver around the house
