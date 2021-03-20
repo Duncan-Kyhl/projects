@@ -135,3 +135,7 @@ Storage of potential projects and ideas until I code them.
 	- go find my phone/wallet/beer
 	- bring me the item
 	- CV to recognize object and maneuver around the house
+
+### Do not disturb light
+	- available
+	- not available
