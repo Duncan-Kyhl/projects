@@ -139,3 +139,7 @@ Storage of potential projects and ideas until I code them.
 ### Do not disturb light
 	- available
 	- not available
+	
+### Guitar to Airpod
+	- Bluetooth from audio jack to airpods
+	- no wires needed
