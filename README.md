@@ -84,11 +84,11 @@ Storage of potential projects and ideas until I code them.
 	- Create my due dates for me
 	- Start with Exam because each syllabus is formatted differently
 
-### Store Links to OneNote or somewhere in browser to be reopened
-	- I open lots of things, to read about. Ex: node.js
-	- Then I have to do schoolwork and want to save all of those to open later.
-	- Write a program to store the History > Recently Closed > 10 tabs
-	- Then, when I have time to read those again, open them up from a single terminal program.
+### Store Browser Tabs to Browser or OneNote for Later Reading
+	- I open lots of things, to read about. #vimium-side-effects-may-include:
+	- Then I have to do schoolwork and don't want all those tabs hanging out until I read them
+	- Write a program to store the History > Recently Closed > 10 tabs? or select tabs > right click > store in "read later" folder with a reminder every 24 hours
+	- Reminder stops when folder is deleted
 	- https://github.com/cnwangjie/better-onetab
 
 ### Personal Portfolio
