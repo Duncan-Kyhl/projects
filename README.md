@@ -143,3 +143,10 @@ Storage of potential projects and ideas until I code them.
 ### Guitar to Airpod
 	- Bluetooth from audio jack to airpods
 	- no wires needed
+
+### Auto Campus Clear
+	- Fills out my campus clear automatically
+	- run daily
+	- same setting every time
+
+
