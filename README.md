@@ -149,4 +149,8 @@ Storage of potential projects and ideas until I code them.
 	- run daily
 	- same setting every time
 
+### Feynman Review
+	- Journal of interesting topics in STEM, explained at 4 different levels, from beginner to complex.
+	- Middle School, High School, College, PhD.
+
 
