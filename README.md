@@ -153,4 +153,17 @@ Storage of potential projects and ideas until I code them.
 	- Journal of interesting topics in STEM, explained at 4 different levels, from beginner to complex.
 	- Middle School, High School, College, PhD.
 
+### Research Brief
+	- Show list of titles of recent news and research journal article titles to see what's interesting to read
+	- web scraper/crawler, refresh weekly
+
+### Radiology
+	- Given x-ray scans, classify location on the body
+	- label bones with name or number teeth
+
+### Computer Vision
+	- camera looks inside refrigerator for a beer 
+	- identifies specific cans and let's me know what we have in stock
+	- camera viewable from phone
+
 
