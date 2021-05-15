@@ -166,4 +166,8 @@ Storage of potential projects and ideas until I code them.
 	- identifies specific cans and let's me know what we have in stock
 	- camera viewable from phone
 
-
+### Cocktail Ordering/Bartending
+	- Shows picture and name of each cocktail
+	- Selecting shows ingredients
+	- Good for trying new drinks as a customer
+	- Good for tracking known drinks as a bartender
