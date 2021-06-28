@@ -171,3 +171,10 @@ Storage of potential projects and ideas until I code them.
 	- Selecting shows ingredients
 	- Good for trying new drinks as a customer
 	- Good for tracking known drinks as a bartender
+teeth
+
+### Efficient Shopper
+	- given a shopping cart, map most efficient path through store
+        - stores already have apps that tell aisle and shelf, get data, shortest path simulation 
+
+### 
