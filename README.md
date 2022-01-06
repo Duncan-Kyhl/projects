@@ -162,7 +162,7 @@ Storage of potential projects and ideas until I code them.
 	- label bones with name or number teeth
 
 ### Computer Vision
-	- camera looks inside refrigerator for a beer 
+	- camera looks inside refrigerator for an item 
 	- identifies specific cans and let's me know what we have in stock
 	- camera viewable from phone
 
@@ -171,10 +171,11 @@ Storage of potential projects and ideas until I code them.
 	- Selecting shows ingredients
 	- Good for trying new drinks as a customer
 	- Good for tracking known drinks as a bartender
-teeth
 
 ### Efficient Shopper
 	- given a shopping cart, map most efficient path through store
         - stores already have apps that tell aisle and shelf, get data, shortest path simulation 
 
-### 
+### Bike GPS Guide
+	- dashboard projection for night bike riding
+	- shows path ahead, and future or historical stats: distance to next turn, speed, distance/time to destination
