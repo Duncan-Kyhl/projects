@@ -179,3 +179,16 @@ Storage of potential projects and ideas until I code them.
 ### Bike GPS Guide
 	- dashboard projection for night bike riding
 	- shows path ahead, and future or historical stats: distance to next turn, speed, distance/time to destination
+
+### The Knot Features: Interactive Seating Organizer
+	- Picture upload or camera to image to upload of location floorplan. Also option to draw it yourself.
+	- Add tables & click table to change from circle to round and drag size and input number of seats
+	- Populate sidebar of attendees based on RSVP mgt system --> which automatically populates seats with RSVP groups together
+	- Click where wedding party table is located --> or have ML guess where it is. Should be pretty easy.
+	- Click two spots to swap or drag to new position
+	- Swap views to see rehersal dinner vs wedding dinner
+	- Collaborative feature?
+	
+### The Knot Features: Add RSVP reminders to Calendar
+	- When at the RSVP page and their indecisive, 3 second delay, then popup button "don't know yet? click to add RSVP deadline to calendar.
+	- View from calendar has a link to "Not sure if you've RSVP'd already? click here" -> takes you to the RSVP mgt page.
