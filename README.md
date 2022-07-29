@@ -192,3 +192,6 @@ Storage of potential projects and ideas until I code them.
 ### The Knot Features: Add RSVP reminders to Calendar
 	- When at the RSVP page and their indecisive, 3 second delay, then popup button "don't know yet? click to add RSVP deadline to calendar.
 	- View from calendar has a link to "Not sure if you've RSVP'd already? click here" -> takes you to the RSVP mgt page.
+
+### Rental Bike compass
+	- When riding a Divvy bike, a digital compass should point to the nearest bike station so there's not a need to use your phone again.
